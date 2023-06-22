@@ -4,7 +4,7 @@ The idea is to create a very minimal GitOps based cloud provider with a Git base
 
 Initially only providing managed, best practice kubernetes, on hetzner.
 
-Users Provide a Hetzner API Key initially via their own repo so we don't have to handle KubeCost/FinOps stuff in version 0.1.
+Users provide a Hetzner API Key initially via their own repo so we don't have to handle KubeCost/FinOps stuff in version 0.1.
 
 No "free master/control node" bullshit. They pay for what they use.
 
