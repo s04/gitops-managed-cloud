@@ -11,6 +11,7 @@ The idea is to create a very minimal GitOps based cloud provider with a Git base
 - On Hetzer
 - Easy setup. Only need:
   - Github Repo
+  - SlimKloud API Key
   - Hetzner API Key
 - Easy to handle for a management perspective => no KubeCost/FinOps headache in version 0.1
 - Cost: $9.99(???) a month/cluster subscription for provisioning, TF managment and "easy of use"
