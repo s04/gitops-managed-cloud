@@ -1,7 +1,7 @@
 # Quickstart
 - Create new repo (or fork template repo)
-- Create folder called clusters
-- Create config.yaml for each cluster you want
+- Create folder called clusters/
+- Create /clusters/cluster1/config.yaml for each cluster you want
 
 ```yaml
 # config.yaml
