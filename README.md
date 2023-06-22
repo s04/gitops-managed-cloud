@@ -29,7 +29,7 @@ Check it out here: ["Installation / Quickstart"](docs/quickstart.md)
 
 ### Base
 
-- Kube-Hetzner (SUSE MicroOS + K3s, on Hetzner ["Kube-Hetzner"](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+- Kube-Hetzner (SUSE MicroOS + K3s, on Hetzner [Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner))
 
 ### CD/Secrets
 
