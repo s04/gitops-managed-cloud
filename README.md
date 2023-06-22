@@ -2,13 +2,18 @@
 
 The idea is to create a very minimal GitOps based cloud provider with a Git based frontnend.
 
-Initially only providing managed, best practice kubernetes, on hetzner.
+## Features
 
-Users provide a Hetzner API Key initially via their own repo so we don't have to handle KubeCost/FinOps stuff in version 0.1.
-
-No "free master/control node" bullshit. They pay for what they use.
-
-Charge a 9.99(???) a month/cluster subscription for provisioning, TF managment and "easy of use".
+- Managed, best-practice, Kubernetes Clusters
+- K3s, ArgoCD, ExternalSecrets, Cilium (Ingress + GatewayAPI), Longhorn + HetznerCSI
+- digger.dev terraform state management
+- No hidden costs, no "free master/control node" bullshit. Pay for what you use.
+- On Hetzer
+- Easy setup. Only need:
+  - Github Repo
+  - Hetzner API Key
+- Easy to handle for a management perspective => no KubeCost/FinOps headache in version 0.1
+- Cost: $9.99(???) a month/cluster subscription for provisioning, TF managment and "easy of use"
 
 # Installation Guide / Quickstart
 
