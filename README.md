@@ -22,7 +22,7 @@ Check it out here: ["Installation / Quickstart"](docs/quickstart.md)
 # Design
 
 ## Customer FrontEnd
-1. Static Site Generator (Hugo) with Form/Payment (easy subscriptions/forms available) link ["Stripe Payment Link"])https://stripe.com/en-de/payments/payment-links)
+1. Static Site Generator (Hugo) with Form/Payment (easy subscriptions/forms available) link ["Stripe Payment Link"](https://stripe.com/en-de/payments/payment-links)
 2. Git/Github Repo with config.yaml
 
 ## Customer Cluster Stack v0.1
