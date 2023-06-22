@@ -34,7 +34,7 @@ version: X.X.X
 # Set to none for default values
 cilium_values: clusters/cluster1/cilium_values.yaml
 # Set to none for default values
-cilium_values: None
+istio_values: None
 
 # ArgoCD (Full or Core) or Flux or None
 # Possible values: argocd-full, argocd-core, Flux, None
