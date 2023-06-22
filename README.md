@@ -1,6 +1,6 @@
 # SlimKloud / MinKloud
 
-The idea is to create a very minimal GitOps based cloud provider with a Git based frontnend.
+The idea is to create a very minimal GitOps based cloud provider with a Git based frontend.
 
 ## Features
 
